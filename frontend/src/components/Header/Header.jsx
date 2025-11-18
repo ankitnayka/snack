@@ -6,7 +6,7 @@ const Header = () => {
     <div className='header'>
         <div className="header-contents">
             <h2>Order your favourite food here</h2>
-            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Similique dolorem, dicta itaque iure fugiat architecto.</p>
+            <p>One of the oldest and most prominent names in Surat and South Gujarat, founded in 1964</p>
             <button>View Menu</button>
         </div>
     </div>
